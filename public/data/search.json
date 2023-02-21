@@ -1,0 +1,856 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "ypDqEvw5dYNIFmiFoKdiGj2aqhk",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gDV3CY6JS6n2aax8BPzPwkJKYNM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ix62ySKlxb0"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-19T15:00:08Z",
+        "channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
+        "title": "TWICE &quot;READY TO BE&quot; Opening Trailer",
+        "description": "TWICE \"READY TO BE\" Opening Trailer TWICE 12TH MINI ALBUM \"READY TO BE\" Release on 2023.03.10 FRI 2PM KST/0AM ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ix62ySKlxb0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ix62ySKlxb0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ix62ySKlxb0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JYP Entertainment",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-19T15:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "I3Ic3WzzF-S0Xz_xVNptiNe4QVo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cKlEE_EYuNM"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-20T05:00:06Z",
+        "channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
+        "title": "TWICE Pre-release english track &quot;MOONLIGHT SUNRISE&quot; M/V",
+        "description": "TWICE Pre-release english track \"MOONLIGHT SUNRISE\" M/V Release on 2023.01.20 FRI 2PM KST/0AM EST Listen ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cKlEE_EYuNM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cKlEE_EYuNM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cKlEE_EYuNM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JYP Entertainment",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-20T05:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "E3lwmlyVYHsRFNEdqbmpDpRP1UA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "k6jqx9kZgPM"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-26T04:00:11Z",
+        "channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
+        "title": "TWICE &quot;Talk that Talk&quot; M/V",
+        "description": "TWICE \"Talk that Talk\" M/V TWICE 11TH MINI ALBUM \"BETWEEN 1&2\" Released on 2022.08.26 FRI 1PM KST/0AM EST ❣Listen ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k6jqx9kZgPM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k6jqx9kZgPM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k6jqx9kZgPM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JYP Entertainment",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-26T04:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RKKmcijnc4iOA7Dh4s92H21qUAs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "i0p1bmr0EmE"
+      },
+      "snippet": {
+        "publishedAt": "2018-04-09T08:59:51Z",
+        "channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
+        "title": "TWICE &quot;What is Love?&quot; M/V",
+        "description": "TWICE(트와이스) \"What is Love?\" M/V Spotify https://goo.gl/jVLYYY iTunes & Apple Music https://goo.gl/DKyKZf Google Music ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i0p1bmr0EmE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i0p1bmr0EmE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i0p1bmr0EmE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JYP Entertainment",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-04-09T08:59:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jDuqP2QEhBEFHJ3GhCfEhZHmCvs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "c7rCyll5AeY"
+      },
+      "snippet": {
+        "publishedAt": "2016-04-24T15:00:08Z",
+        "channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
+        "title": "TWICE &quot;CHEER UP&quot; M/V",
+        "description": "TWICE(트와이스) \"CHEER UP\" M/V The 5th Mini Album \"What is Love?\" Spotify https://goo.gl/jVLYYY iTunes & Apple Music ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c7rCyll5AeY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c7rCyll5AeY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c7rCyll5AeY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JYP Entertainment",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-04-24T15:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "E_L8Fw97F0582E4MULzwas626qU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mH0_XpSHkZo"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-01T08:59:56Z",
+        "channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
+        "title": "TWICE &quot;MORE &amp; MORE&quot; M/V",
+        "description": "TWICE \"MORE & MORE\" M/V Spotify https://TWICE.lnk.to/MOREANDMORE/spotify Apple Music ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mH0_XpSHkZo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mH0_XpSHkZo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mH0_XpSHkZo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JYP Entertainment",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-01T08:59:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rkGqF1CWcV6q1MLM1u130UlQrcY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "f5_wn8mexmM"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-01T03:58:11Z",
+        "channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
+        "title": "TWICE &quot;The Feels&quot; M/V",
+        "description": "TWICE \"The Feels\" M/V TWICE's 1ST Full English Single \"The Feels\" Released on 10.01_FRI , 0AM (EST) 1PM (KST) Listen ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f5_wn8mexmM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f5_wn8mexmM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f5_wn8mexmM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JYP Entertainment",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-01T03:58:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rXvqTl4NMFTnh3iL3MfFe62P3c0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3ymwOvzhwHs"
+      },
+      "snippet": {
+        "publishedAt": "2019-09-23T09:00:11Z",
+        "channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
+        "title": "TWICE &quot;Feel Special&quot; M/V",
+        "description": "TWICE \"Feel Special\" M/V Spotify http://open.spotify.com/album/4EG4E0Uk0HpJBgOMgXI26z iTunes/Apple Music ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3ymwOvzhwHs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3ymwOvzhwHs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3ymwOvzhwHs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JYP Entertainment",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-09-23T09:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Q83bqeA7UARwKMiyLnK1Lcn_npg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XA2YEHn-A8Q"
+      },
+      "snippet": {
+        "publishedAt": "2021-06-09T08:58:12Z",
+        "channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
+        "title": "TWICE &quot;Alcohol-Free&quot; M/V",
+        "description": "TWICE \"Alcohol-Free\" M/V TWICE The 10th Mini Album “Taste of Love” Check Out in below link! https://twice.lnk.to/tasteoflove ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XA2YEHn-A8Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XA2YEHn-A8Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XA2YEHn-A8Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JYP Entertainment",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-06-09T08:58:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xsEnk9p_KacvEbOeTfcPYFy_LOA",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCzgxx_DM2Dcb9Y1spb9mUJA"
+      },
+      "snippet": {
+        "publishedAt": "2016-03-27T15:48:08Z",
+        "channelId": "UCzgxx_DM2Dcb9Y1spb9mUJA",
+        "title": "TWICE",
+        "description": "TWICE Official YouTube Channel.",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/RNzGvruAX9d_qsOgZzen1qvSCEDg_Hta8kimglTlyB12_1nZGDa3edRxyDQMWFrKEvPZpsCt6Q=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/RNzGvruAX9d_qsOgZzen1qvSCEDg_Hta8kimglTlyB12_1nZGDa3edRxyDQMWFrKEvPZpsCt6Q=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/RNzGvruAX9d_qsOgZzen1qvSCEDg_Hta8kimglTlyB12_1nZGDa3edRxyDQMWFrKEvPZpsCt6Q=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "TWICE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-03-27T15:48:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dpu-neOtrBMwTfHs5cQSr0CbEEk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CM4CkVFmTds"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-26T08:59:54Z",
+        "channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
+        "title": "TWICE &quot;I CAN&#39;T STOP ME&quot; M/V",
+        "description": "TWICE \"I CAN'T STOP ME\" M/V TWICE 2nd Album \"Eyes wide open\" LISTEN NOW: https://TWICE.lnk.to/Eyeswideopen TWICE ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CM4CkVFmTds/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CM4CkVFmTds/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CM4CkVFmTds/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JYP Entertainment",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-26T08:59:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hYWKyTlmaMeH19d5PEOBGiQCTnE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "V2hlQkVJZhE"
+      },
+      "snippet": {
+        "publishedAt": "2017-10-30T09:00:08Z",
+        "channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
+        "title": "TWICE &quot;LIKEY&quot; M/V",
+        "description": "TWICE(트와이스) \"LIKEY\" M/V The 5th Mini Album \"What is Love?\" Spotify https://goo.gl/jVLYYY iTunes & Apple Music ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V2hlQkVJZhE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V2hlQkVJZhE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V2hlQkVJZhE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JYP Entertainment",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-10-30T09:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cP6y5h0WLId26g_SN40E-athbc8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Fm5iP0S1z9w"
+      },
+      "snippet": {
+        "publishedAt": "2018-07-09T08:59:41Z",
+        "channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
+        "title": "TWICE &quot;Dance The Night Away&quot; M/V",
+        "description": "TWICE(트와이스) \"Dance The Night Away\" M/V iTunes & Apple Music https://goo.gl/citFjR Spotify https://goo.gl/qmNqdB Google ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Fm5iP0S1z9w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Fm5iP0S1z9w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Fm5iP0S1z9w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JYP Entertainment",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-07-09T08:59:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9L4878xKOsdMkSl7ihjXdTHTjPg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9j6_KM-uzfY"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-03T12:59:54Z",
+        "channelId": "UCzgxx_DM2Dcb9Y1spb9mUJA",
+        "title": "TWICE &quot;The Feels&quot; Choreography Video (Moving Ver.)",
+        "description": "TWICE \"The Feels\" Choreography Video (Moving Ver.) TWICE's 1ST Full English Single \"The Feels\" Released on 10.01_FRI ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9j6_KM-uzfY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9j6_KM-uzfY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9j6_KM-uzfY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TWICE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-03T12:59:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Cm8SwrVFjZGThnbQrxi18d7Py-U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kOHB85vDuow"
+      },
+      "snippet": {
+        "publishedAt": "2019-04-22T08:59:58Z",
+        "channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
+        "title": "TWICE &quot;FANCY&quot; M/V",
+        "description": "TWICE \"FANCY\" M/V \"FANCY YOU\" Album Official Purchase(US) Amazon https://tinyurl.com/y43c4c4z BARNES & NOBLE ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kOHB85vDuow/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kOHB85vDuow/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kOHB85vDuow/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JYP Entertainment",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-04-22T08:59:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MEk6Qp35CheexFvTvp3BDztwW40",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FWjMQ-XY2XY"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-15T14:59:55Z",
+        "channelId": "UCzgxx_DM2Dcb9Y1spb9mUJA",
+        "title": "TWICE &quot;SCIENTIST&quot; Choreography Video (Moving Ver.)",
+        "description": "TWICE \"SCIENTIST\" Choreography Video (Moving Ver.) TWICE 3rd Full Album \"Formula of Love: O+T=＜3\" Listen \"Formula of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FWjMQ-XY2XY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FWjMQ-XY2XY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FWjMQ-XY2XY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TWICE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-15T14:59:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UvgrLupQ1sjmiRccNeplcJbE898",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vPwaXytZcgI"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-12T05:00:11Z",
+        "channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
+        "title": "TWICE “SCIENTIST” M/V",
+        "description": "TWICE “SCIENTIST” M/V TWICE 3rd Full Album \"Formula of Love: O+T=＜3\" Listen \"Formula of Love: O+T=＜3\" HERE   ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vPwaXytZcgI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vPwaXytZcgI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vPwaXytZcgI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JYP Entertainment",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-12T05:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "v1t_u9hwazxXVOJGE33GuZCRc70",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ePpPVE-GGJw"
+      },
+      "snippet": {
+        "publishedAt": "2016-10-23T15:00:05Z",
+        "channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
+        "title": "TWICE &quot;TT&quot; M/V",
+        "description": "TWICE(트와이스) \"TT(티티)\" M/V The 5th Mini Album \"What is Love?\" Spotify https://goo.gl/jVLYYY iTunes & Apple Music ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ePpPVE-GGJw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ePpPVE-GGJw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ePpPVE-GGJw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JYP Entertainment",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-10-23T15:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3wuzqEjbUBaJggnVpAMYZL6JXtU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8A2t_tAjMz8"
+      },
+      "snippet": {
+        "publishedAt": "2017-02-19T15:00:01Z",
+        "channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
+        "title": "TWICE &quot;KNOCK KNOCK&quot; M/V",
+        "description": "TWICE(트와이스) \"KNOCK KNOCK\" M/V The 5th Mini Album \"What is Love?\" Spotify https://goo.gl/jVLYYY iTunes & Apple Music ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8A2t_tAjMz8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8A2t_tAjMz8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8A2t_tAjMz8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JYP Entertainment",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-02-19T15:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LO25ZS5Uv8TFg6pBxHzmfLf_oIg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rRzxEiBLQCA"
+      },
+      "snippet": {
+        "publishedAt": "2017-12-11T08:59:59Z",
+        "channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
+        "title": "TWICE &quot;Heart Shaker&quot; M/V",
+        "description": "TWICE(트와이스) \"Heart Shaker\" M/V The 5th Mini Album \"What is Love?\" Spotify https://goo.gl/jVLYYY iTunes & Apple Music ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rRzxEiBLQCA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rRzxEiBLQCA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rRzxEiBLQCA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JYP Entertainment",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-12-11T08:59:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KggTLvBjhZrh3j5TLfay-u0kb30",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Q4Rb5_kjS2M"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-29T15:00:02Z",
+        "channelId": "UCzgxx_DM2Dcb9Y1spb9mUJA",
+        "title": "TWICE &quot;Queen of Hearts&quot; Live Clip",
+        "description": "TWICE \"Queen of Hearts\" Live Clip TWICE 11TH MINI ALBUM \"BETWEEN 1&2\" ❣Listen \"BETWEEN 1&2\" HERE   ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q4Rb5_kjS2M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q4Rb5_kjS2M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q4Rb5_kjS2M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TWICE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-29T15:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2pHaXBC3BmE7uUZ1H80Iytsb1nI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HmS21cFzfGo"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-08T21:14:55Z",
+        "channelId": "UCTRBTg1XU48Gc6wAD4QBmEQ",
+        "title": "TWICE「Hello」4th World Tour in Seoul Upscale ver. (60fps)",
+        "description": "Copyright JYP Entertainment || I do not own this video || This is an edited version of the bluray to upscale 4K and 60 fps || TWICE ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HmS21cFzfGo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HmS21cFzfGo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HmS21cFzfGo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ONCE Forever 원스 영원히",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-08T21:14:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DYUMt4Yzxy-LaCkaXvHouIayhzU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "y09NxUvG2x0"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-27T15:00:00Z",
+        "channelId": "UCzgxx_DM2Dcb9Y1spb9mUJA",
+        "title": "NAYEON “POP!” Performance Video",
+        "description": "NAYEON “POP!” Performance Video NAYEON The 1st Mini Album \"IM NAYEON\" ❣Listen \"IM NAYEON\" HERE   ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y09NxUvG2x0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y09NxUvG2x0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y09NxUvG2x0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TWICE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-27T15:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MZgMh6_ygzbG6e1F7LQVDSn6NPg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "E1ntfT1wCQM"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-08T09:00:14Z",
+        "channelId": "UCzgxx_DM2Dcb9Y1spb9mUJA",
+        "title": "TWICE &quot;MOONLIGHT SUNRISE&quot; M/V Behind the Scenes EP.01",
+        "description": "TWICE \"MOONLIGHT SUNRISE\" M/V Behind the Scenes EP.01 TWICE 12TH MINI ALBUM \"READY TO BE\" Release on ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E1ntfT1wCQM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E1ntfT1wCQM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E1ntfT1wCQM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TWICE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-08T09:00:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "n1Ciu4XumL9DdqYDOx8eVlNmGcU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0rtV5esQT6I"
+      },
+      "snippet": {
+        "publishedAt": "2015-10-19T15:00:00Z",
+        "channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
+        "title": "TWICE &quot;Like OOH-AHH(OOH-AHH하게)&quot; M/V",
+        "description": "TWICE(트와이스) \"Like OOH-AHH(OOH-AHH하게)\" M/V The 5th Mini Album \"What is Love?\" Spotify https://goo.gl/jVLYYY iTunes ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0rtV5esQT6I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0rtV5esQT6I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0rtV5esQT6I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JYP Entertainment",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-10-19T15:00:00Z"
+      }
+    }
+  ]
+}
